@@ -1,2 +1,2 @@
-# data-science-project
-STD in females
+# -	Sexually transmitted diseases in females - a data science project
+
